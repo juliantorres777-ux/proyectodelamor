@@ -1,0 +1,27 @@
+{
+  "name": "¿Aceptas salir conmigo?",
+  "short_name": "Proyecto Joha",
+  "description": "Una invitación especial para Joha. Elegí la fecha, la hora y el plan perfecto para nuestra cita.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "es",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
